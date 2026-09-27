@@ -1,0 +1,21 @@
+{
+  "name": "test-gh600",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick18xtn/test-gh600.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nick18xtn/test-gh600/issues"
+  },
+  "homepage": "https://github.com/nick18xtn/test-gh600#readme"
+}
